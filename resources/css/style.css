@@ -83,6 +83,7 @@ div.feeds {
   background: #D81B60;
   -webkit-border-radius: 2px;
   border-radius: 2px;
+  overflow-y: scroll;
 }
 
 div.feed {
